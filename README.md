@@ -1,8 +1,10 @@
 # Felipe Cesar Flores
 
-I’m a self taught full stack engineer, and my focus is the front end. I design and build web and mobile products, from the design to the code.
+I’m a front end engineer based in São Paulo, Brazil. I design and build web and mobile products with React, Next.js and React Native.
 
-I’m based in São Paulo, Brazil. I’m looking for remote roles with US teams, and I’m open to relocating to the United States.
+I build the backend too. I care about the details, from how a screen looks and feels to the code behind it.
+
+I’m open to remote work with US teams and to moving to the US.
 
 [Portfolio](https://felipecesarflores.com) · [Resume](https://felipecesarflores.com/resume/Felipe_Cesar_Flores_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/felipecesarflores/) · [Email](mailto:felipecesarrf@gmail.com)
 
@@ -17,7 +19,7 @@ I’m based in São Paulo, Brazil. I’m looking for remote roles with US teams,
 - **[Notesay AI](https://felipecesarflores.com/#portfolio/notesay-ai)** — to learn languages with YouTube videos and PDFs.
 - **[MyBrainly](https://felipecesarflores.com/#portfolio/mybrainly)** — flashcards from your own words.
 - **[MyMonthly](https://felipecesarflores.com/#portfolio/mymonthly)** — a finance app for budgets and spending.
-- **[Sierra](https://felipecesarflores.com/#portfolio/sierra)** — a live AI voice tutor for English.
+- **[Sierra](https://felipecesarflores.com/#portfolio/sierra)** — a live AI voice tutor for English. An earlier project.
 - **[Morning](https://felipecesarflores.com/#portfolio/morning)** — a short daily reading routine for newsletters. Not published yet.
 - **[Baykey CO](https://felipecesarflores.com/#portfolio/baykey-co)** — pay as you go credits for AI apps. Not published yet.
 
