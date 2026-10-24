@@ -18,6 +18,8 @@ I’m based in São Paulo, Brazil. I’m looking for remote roles with US teams,
 - **[MyBrainly](https://felipecesarflores.com/#portfolio/mybrainly)** — flashcards from your own words.
 - **[MyMonthly](https://felipecesarflores.com/#portfolio/mymonthly)** — a finance app for budgets and spending.
 - **[Sierra](https://felipecesarflores.com/#portfolio/sierra)** — a live AI voice tutor for English.
+- **[Morning](https://felipecesarflores.com/#portfolio/morning)** — a short daily reading routine for newsletters. Not published yet.
+- **[Baykey CO](https://felipecesarflores.com/#portfolio/baykey-co)** — pay as you go credits for AI apps. Not published yet.
 
 The code of these products is private. My portfolio shows what I built, the decisions I made, and what I learned along the way.
 
