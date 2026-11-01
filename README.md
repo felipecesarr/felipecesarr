@@ -12,7 +12,7 @@ I’m open to remote work with US teams and to moving to the US.
 
 - Freelance front end engineer at **Taste Labs**, an AI startup from San Francisco. I help AI models and agents get better at front end work.
 - I run **Lunar Link**, my own software company. With my team, I have worked on more than 40 projects, from CRMs to systems for big companies.
-- I’m building **Memobook**, on top of Sierra and the feedback of its users.
+- I’m building **Memobook**, on top of Sierra.
 
 ## Some things I built
 
