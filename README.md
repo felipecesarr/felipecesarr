@@ -1,10 +1,9 @@
 # Felipe Cesar Flores
 
-I’m a front end engineer based in São Paulo, Brazil. I design and build web and mobile products with React, Next.js and React Native.
+I’m a Full-Stack engineer based in São Paulo, Brazil. I design and build web and mobile products with React, Next.js and React Native.
 
 I build the backend too. I care about the details, from how a screen looks and feels to the code behind it.
 
-I’m open to remote work with US teams and to moving to the US.
 
 [Portfolio](https://felipecesarflores.com) · [Resume](https://felipecesarflores.com/resume/Felipe_Cesar_Flores_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/felipecesarflores/) · [Email](mailto:felipecesarrf@gmail.com)
 
